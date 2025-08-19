@@ -1,4 +1,4 @@
-// src/__tests__/test_suites/AddTransactions.test.jsx
+
 import React from "react";
 import { render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
